@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechKidJr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML 5
+- 🌱 I’m currently learning HTML 5, Lua, and Node.js
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 Reach me by email: kidannyjunior10@gmail.com
 
